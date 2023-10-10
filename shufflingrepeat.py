@@ -3,7 +3,7 @@ from quodlibet.qltk import Icons
 from quodlibet.util.dprint import print_d
 from quodlibet.library.song import SongLibrary
 
-class RepeatListShuffle(RepeatPlugin):
+class ShufflingRepeat(RepeatPlugin):
     PLUGIN_ID = "Shuffling Repeat"
     PLUGIN_NAME = "Shuffling Repeat"
     PLUGIN_ICON = Icons.MEDIA_PLAYLIST_REPEAT

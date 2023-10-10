@@ -1,4 +1,4 @@
-# QuodLibet-Shuffling-Repeat-Plugin
+# Quod Libet Shuffling Repeat Plugin
 
 A plugin for [Quod Libet](https://github.com/quodlibet/quodlibet) that shuffles and restarts the playlist every time it ends.
 
